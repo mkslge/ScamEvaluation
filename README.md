@@ -1,7 +1,7 @@
 # Evaluating LLMs for Scam Detection: Safeguarding Older Adults Against Online Threats
 
 ## Overview
-This project explores the capabilities of two advanced large language models (LLMs), OpenAI’s GPT-4.0 and Google’s Gemini-1.5-Pro, in detecting email scams. The study focuses on how these models can safeguard older adults, a group particularly vulnerable to online threats, by providing accurate and accessible scam detection solutions. This paper is the result of our final project for our CMSC396H class
+This project explores the capabilities of two advanced large language models (LLMs), OpenAI’s GPT-4.0 and Google’s Gemini-1.5-Pro, in detecting email scams. The study focuses on how these models can safeguard older adults, a group particularly vulnerable to online threats, by providing accurate and accessible scam detection solutions. This paper is the result of our final project for our CMSC396H class at the University Of Maryland
 
 ## Abstract
 With the rise in online scams, especially targeting older adults, this research compares the performance of GPT-4.0 and Gemini-1.5-Pro in identifying fraudulent emails. By analyzing metrics such as accuracy, precision, recall, and F1 score, this work sheds light on the potential and limitations of these models in real-world applications.
